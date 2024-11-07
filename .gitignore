@@ -1,0 +1,11 @@
+# Node.js / NPM
+node_modules/
+npm-debug.log
+
+# Build output
+build/
+dist/
+
+#IDE and editor files
+.idea/
+.vscode/
